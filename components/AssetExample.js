@@ -10,7 +10,7 @@ export default function AssetExample() {
       <Image style={styles.logo} source={require('../assets/snack-icon.png')} />
     </View>
   );
-}
+}//Style create
 
 const styles = StyleSheet.create({
   container: {
